@@ -1,3 +1,6 @@
+// http://data.fixer.io/api/latest?access_key=869a4e85e4c8db07005c445355ba0b7e
+// https://api.coinmarketcap.com/v1/ticker/
+
 import React from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
