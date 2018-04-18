@@ -8,11 +8,9 @@ export default class LotsOfGreetings extends Component {
   render() {
     return (
       <View>
-        <Greeting name='Ivan' />
-        <Greeting name='Rexxar' />
-        <Greeting name='Jaina' />
-        <Greeting name='Valeera' />
+        {/* <Greeting name='Valeera' /> */}
         <CriptoApp />
+        <Divisa />
       </View>
     );
   }
